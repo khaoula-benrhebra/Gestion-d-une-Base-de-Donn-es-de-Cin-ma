@@ -64,6 +64,7 @@ include('codes/auth.php');
 </head>
 <body>
     <div class="form-container">
+        <?php  include('message.php') ?>
         <h2>Register</h2>
         <form action="#" method="post">
             <div class="form-group">
